@@ -1,0 +1,2 @@
+# STM32F103C8T6 Core board
+STM32F103C8T6 Core board
