@@ -1,6 +1,5 @@
-# STM32F103C8T6 Core board
-# ROSMASTER X1 ROS Robot for Jetson NANO 4GB/TX2 NX/RaspberryPi 4B
-![](https://github.com/YahboomTechnology/ROSMASTER-X1/blob/main/ROSMASTER_X1.jpg)
+# STM32F103C8T6 Core Minimum System Development Board Module On Board CH340 Drive No Need ST LINK for Smart Car DIY Kit
+![](https://github.com/YahboomTechnology/STM32F103C8T6-Core-board/blob/main/STM32F103C8T6.jpg)
 # Introduction
 STM32F103RCT6 is a 32-bit MCU developed and produced by ST STMicroelectronics, APM32E103RET6 isa domestic 32-bit MCU developed by zhuhai Extreme Ocean Semiconductor, both of which belong tothe Cortex M3 architecture.Compared with C8T6,RCT6 and RET6 have more pin resources,which aresuitable for large-scale project application scenarios.At the same time, it has a larger flash and SRAMcapacity, and an external 8M off-chip flash can store Chinese character fonts, pictures, etc., which is con-venient for the development of peripherals such as TFT color screens.Compatible with STM32F103C8T6,suitable for large-scale project application scenarios such as electronic design competition, robot
 
